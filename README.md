@@ -24,3 +24,15 @@ const frontendEngineer = {
   currentChallenge: "Exploring WebAssembly for frontend performance",
   funFact: "Transformed legacy jQuery app to React, reducing TTI by 65%"
 };
+
+
+graph LR
+A[Frontend Architecture] --> B[Component Design]
+A --> C[State Management]
+A --> D[Performance Optimization]
+B --> E[Atomic Design]
+B --> F[Reusability]
+C --> G[Redux Toolkit]
+C --> H[React Query]
+D --> I[Code Splitting]
+D --> J[Bundle Analysis]
