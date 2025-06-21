@@ -25,7 +25,7 @@ const frontendEngineer = {
   funFact: "Transformed legacy jQuery app to React, reducing TTI by 65%"
 };
 
-
+```
 graph LR
 A[Frontend Architecture] --> B[Component Design]
 A --> C[State Management]
