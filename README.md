@@ -1,37 +1,62 @@
-# Babatunde-Ajagbe
+# Hi, I'm Jayjay Babatunde 👋
 
-<h1 align="left">Hi, I'm <a href="[Your Portfolio URL]" target="_blank">Babatunde Ajagbe</a> 👋</h1>
-<h3 align="left">Senior Software Engineer crafting performant, reliable and scaleable web solutions</h3>
+**Software Engineer · Frontend Architect · WordPress Developer**
 
-<!-- Tech Stack Badges using skillicons.dev -->
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git" alt="tech stack" />
-</p>
+---
 
+## 🚀 About Me
 
-<p align="left"> 
-<a href="www.linkedin.com/in/babatunde-ajagbe"> 
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"> </a> 
-<a href="https://twitter.com/yourhandle"> 
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"> </a> 
-<a href="mailto:you@email.com"> 
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"> </a>
-</p>
+I'm a passionate Software Engineer and Frontend Developer, focused on building scalable design systems and optimized web experiences. My journey spans crafting seamless UIs, architecting robust frontend solutions, and empowering teams to ship high-quality products.
 
- About Me
-```javascript
-const frontendEngineer = {
-  pronouns: "he",
-  focus: "Building responsive, accessible and scaleable web solutions",
-  specialties: [
-    "React Ecosystem (Next.js, Redux Toolkit)",
-    "Performance Optimization",
-    "Component Libraries & Design Systems",
-    "Modern CSS (Tailwind, CSS-in-JS)",
-    "Testing Strategies (Jest, React Testing Library)"
-  ],
-  currentChallenge: "Exploring WebAssembly for frontend performance",
-  funFact: "Transformed legacy jQuery app to React, reducing TTI by 65%"
-};
-```
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+---
+
+## 🛠️ Top Skills & Technologies
+
+- **Languages/Frameworks:** JavaScript, Python, React, Next.js
+- **Specialties:** Frontend Architecture, WordPress Development, Design Systems, Performance Optimization
+
+---
+
+## 🌟 Featured Projects
+
+- **Courseware Cloud:**  
+  A platform for creating and delivering interactive digital courses at scale.
+
+- **Mini Shopping Cart:**  
+  Lightweight e-commerce cart with smooth UX and seamless integrations.
+
+- **AI-Doctor:**  
+  AI-powered digital assistant for preliminary health assessments and recommendations.
+
+---
+
+## 📝 Short Bio
+
+> Software Engineer || FrontEnd Developer || Building scalable design systems and optimized web experiences.
+
+---
+
+## 🌐 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/babatunde-ajagbe)
+- [X (Twitter)](https://x.com/BabatundeA43617)
+- [Gmail](ajagbebabatunde153@gmail.com)
+
+---
+
+## 🎮 Fun Facts
+
+- Gaming enthusiast 🎮
+- Love exploring generative AI 🤖
+- Always researching new tech trends & prototyping cool ideas 🚀
+
+---
+
+## 📊 GitHub Stats
+
+![JayjayBabatunde's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayjayBabatunde&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayjayBabatunde&layout=compact&theme=radical)
+
+---
+
+> _“Code. Create. Optimize. Repeat.”_
