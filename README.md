@@ -1,10 +1,10 @@
 # Babatunde-Ajagbe
 
-<h1 align="center">Hi, I'm <a href="[Your Portfolio URL]" target="_blank">[Your Name]</a> 👋</h1>
-<h3 align="center">Senior Frontend Engineer crafting performant web experiences</h3>
+<h1 align="left">Hi, I'm <a href="[Your Portfolio URL]" target="_blank">Babatunde Ajagbe</a> 👋</h1>
+<h3 align="left">Senior Software Engineer crafting performant, reliable and scaleable web experiences</h3>
 
 <!-- Tech Stack Badges using skillicons.dev -->
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,js,html,css,tailwind,redux,graphql,vite,webpack,jest,figma,git,vercel,netlify" alt="tech stack" />
 </p>
 
