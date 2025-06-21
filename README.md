@@ -25,14 +25,6 @@ const frontendEngineer = {
   funFact: "Transformed legacy jQuery app to React, reducing TTI by 65%"
 };
 
-```
-graph LR
-A[Frontend Architecture] --> B[Component Design]
-A --> C[State Management]
-A --> D[Performance Optimization]
-B --> E[Atomic Design]
-B --> F[Reusability]
-C --> G[Redux Toolkit]
-C --> H[React Query]
-D --> I[Code Splitting]
-D --> J[Bundle Analysis]
+
+
+<p align="center"> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://twitter.com/yourhandle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"> </a> <a href="https://yourportfolio.dev"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=react&logoColor=white" alt="Portfolio"> </a> <a href="mailto:you@email.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"> </a> </p> ```
