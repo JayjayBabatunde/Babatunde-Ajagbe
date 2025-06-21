@@ -5,7 +5,7 @@
 
 <!-- Tech Stack Badges using skillicons.dev -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,js,html,css,tailwind,redux,graphql,vite,webpack,jest,figma,git,vercel,netlify" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git" alt="tech stack" />
 </p>
 
 <!-- Stats & Trophy Section -->
