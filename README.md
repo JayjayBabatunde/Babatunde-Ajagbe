@@ -34,4 +34,4 @@ const frontendEngineer = {
   funFact: "Transformed legacy jQuery app to React, reducing TTI by 65%"
 };
 ```
-
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
