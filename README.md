@@ -8,12 +8,16 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git" alt="tech stack" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Certified-Web%20Developer-blue" alt="Google Certified">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange" alt="AWS Certified">
+
+<p align="left"> 
+<a href="www.linkedin.com/in/babatunde-ajagbe"> 
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"> </a> 
+<a href="https://twitter.com/yourhandle"> 
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"> </a> 
+<a href="mailto:you@email.com"> 
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"> </a>
 </p>
 
-<p align="center"> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://twitter.com/yourhandle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"> </a> <a href="https://yourportfolio.dev"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=react&logoColor=white" alt="Portfolio"> </a> <a href="mailto:you@email.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"> </a> </p> 
  About Me
 ```javascript
 const frontendEngineer = {
